@@ -15,17 +15,7 @@
   <SS_USER_ROLE USER_ID="4" ROLE_ID="2"/>
   <SS_USER_ROLE USER_ID="5" ROLE_ID="2"/>
   <SS_USER_ROLE USER_ID="6" ROLE_ID="2"/>
-  
-  <!-- 
-  <widget_type id="1001" name="test1"/>
-  <widget_type id="1002" name="test2"/>
-  <widget_type id="1003" name="test3"/>
-  
-  <widget id="2001" name="douban" url="http://www.douban.com" widget_type_id="1001" iframe="0" status="1"/>
-  <widget id="2002" name="google" url="http://www.google.com" widget_type_id="1001" iframe="0"  status="1"/>
-  <widget id="2003" name="sitech" url="http://eip.si-tech.com.cn" widget_type_id="1002" iframe="0" status="0"/>
-   -->
-   
+
    
    
 </dataset>
